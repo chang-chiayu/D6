@@ -107,3 +107,4 @@ ai-content-template
 
 
 從GitHub編輯測試
+從VSCode編輯測試
